@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+#header{
+    color: darkolivegreen;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+form{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 7vh;
+}
+
+#todotext{
+    background-color: darkslategrey;
+    color: white;
+    border: 1px silver solid;
+    padding: 5px;
+}
+
+#todobutton{
+    background-color: black;
+    color: teal;
+    border: none;
+    margin-left: 40px;
+}
+
+#appendTodos{
+    margin-top: 55px;
+}
+
+
+.removebtn{
+    color: red;
+    background-color: black;
+    border: none;
+    margin-left: 55px;
+}
+
+.complete{
+    color: gray;
+    text-decoration: line-through;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.notcomplete{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
