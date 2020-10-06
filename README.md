@@ -2,7 +2,7 @@
 > Gain control of your busy schedule with this todo app.
 
 Tools Used
-[![NPM Version][npm-image]]
+[![Javascript][npm-image]]
 
 
 One to two paragraph statement about your product and what it does.
