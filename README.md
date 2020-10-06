@@ -2,7 +2,7 @@
 > Gain control of your busy schedule with this todo app.
 
 Tools Used
-[![HTML5]]
+[![NPM Version][npm-image]][npm-url]
 [![CSS3]]
 [![Javascript]]
 
