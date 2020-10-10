@@ -13,16 +13,17 @@ Create, remove, update and delete todos. You're todo's are stored locally for pe
 * HTML5
 * CSS3
 * Javascript
-* Local Storage
+
 
 ## Use
-[Click Here](https://nathanielazevedo.github.io/microwars)
+[Click Here](https://nathanielazevedo.github.io/todo_list)
 
 
 ## Skills practiced
+* Local Storage
 * DOM manipulation
 * CSS styling and animation
-* HTML formatting
+
 
 ## Status
-Project is: _in progress_
+Project is: _complete_
