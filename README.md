@@ -4,7 +4,7 @@
 
 
 ## General info
-Create, remove, edit and delete todos. You're todo's are stored locally for persistence. Enjoy!
+Create, remove, update and delete todos. You're todo's are stored locally for persistence. Enjoy!
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
