@@ -1,10 +1,10 @@
 
-# Micro-Wars ![GitHub language count](https://img.shields.io/github/languages/count/nathanielazevedo/microwars)
-> Connect Four with a microbe twist. Choose your board size, microbes and agar type. Enjoy!
+# Todo List ![GitHub language count](https://img.shields.io/github/languages/count/nathanielazevedo/todo_list)
+> Simple todo-list. Stay organized!
 
 
 ## General info
-
+Create, remove, edit and delete todos. You're todo's are stored locally for persistence. Enjoy!
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -13,8 +13,9 @@
 * HTML5
 * CSS3
 * Javascript
+* Local Storage
 
-## Play
+## Use
 [Click Here](https://nathanielazevedo.github.io/microwars)
 
 
